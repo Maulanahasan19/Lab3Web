@@ -2,35 +2,35 @@
 
 Membuat List
 Membuat ordered list 
-![1](https://user-images.githubusercontent.com/81283969/114340005-c4837200-9b80-11eb-8134-1bc8fbf97125.png)
+![1](https://user-images.githubusercontent.com/56240386/114512174-02f15d80-9c63-11eb-9588-a3fcc541e4d4.jpeg)
 Hasil dari ordered list
-![2](https://user-images.githubusercontent.com/81283969/114340103-fe547880-9b80-11eb-983e-413020afa511.png)
+![2](https://user-images.githubusercontent.com/56240386/114512185-04bb2100-9c63-11eb-9842-ad95775a7446.jpeg)
 Membuat unorderd list
-![3](https://user-images.githubusercontent.com/81283969/114340161-1fb56480-9b81-11eb-843c-967d74b6d1af.png)
+![3](https://user-images.githubusercontent.com/56240386/114512201-0a186b80-9c63-11eb-8cc9-5d2ebd5a499e.jpeg)
 Hasil dari unorderd list
-![4](https://user-images.githubusercontent.com/81283969/114340190-33f96180-9b81-11eb-9f68-f6a6209965ea.png)
+![4](https://user-images.githubusercontent.com/56240386/114512213-0edd1f80-9c63-11eb-99f1-a96436db859d.jpeg)
 Mebuat description list
-![5](https://user-images.githubusercontent.com/81283969/114340232-52f7f380-9b81-11eb-9655-34752098bd34.png)
+![5](https://user-images.githubusercontent.com/56240386/114512193-071d7b00-9c63-11eb-9dac-e9b250a8836f.jpeg)
 Hasil dari description list
-![6](https://user-images.githubusercontent.com/81283969/114340324-833f9200-9b81-11eb-8369-fbccdc4461cf.png)
+![6](https://user-images.githubusercontent.com/56240386/114512218-100e4c80-9c63-11eb-8161-b45bc655e66c.jpeg)
 
 Membuat Tabel
-![1 1](https://user-images.githubusercontent.com/81283969/114340416-b71ab780-9b81-11eb-9d5a-266dae1a1d4d.png)
+![7](https://user-images.githubusercontent.com/56240386/114512209-0dabf280-9c63-11eb-8ed4-ed787a91fe2f.jpeg)
 Hasil dari membuat tabel
-![1 2](https://user-images.githubusercontent.com/81283969/114340463-d1549580-9b81-11eb-9df6-bbcc01d750cd.png)
+![8](https://user-images.githubusercontent.com/56240386/114512205-0c7ac580-9c63-11eb-9c08-5dbcb4488915.jpeg)
 Membuat tabel dan menggabungkan sel data
-![1 3](https://user-images.githubusercontent.com/81283969/114340563-08c34200-9b82-11eb-8464-6872cf42b0f7.png)
-![1 5](https://user-images.githubusercontent.com/81283969/114340796-8b4c0180-9b82-11eb-8bd9-e84e8308cc6c.png)
+![9](https://user-images.githubusercontent.com/56240386/114512203-0b499880-9c63-11eb-9693-8853ed56037f.jpeg)
+![10](https://user-images.githubusercontent.com/56240386/114512324-303e0b80-9c63-11eb-80ab-ad81ed7c416d.jpeg)
 Hasil dari menggabungkan sel data
-![1 4](https://user-images.githubusercontent.com/81283969/114340606-2b555b00-9b82-11eb-9973-ab1bf0958e76.png)
-![1 6](https://user-images.githubusercontent.com/81283969/114340818-9a32b400-9b82-11eb-96bc-f4982cdc191d.png)
+![11](https://user-images.githubusercontent.com/56240386/114512328-303e0b80-9c63-11eb-81b3-35150e59bbf7.jpeg)
+![12](https://user-images.githubusercontent.com/56240386/114512299-2c11ee00-9c63-11eb-97ba-b051948c80d3.jpeg)
 
 Membuat Form
-![2 1](https://user-images.githubusercontent.com/81283969/114340860-ae76b100-9b82-11eb-867f-186272ebbc41.png)
+![13](https://user-images.githubusercontent.com/56240386/114512305-2ddbb180-9c63-11eb-8814-ed9f69a82318.jpeg)
 Hasil dari membuat form
-![2 2](https://user-images.githubusercontent.com/81283969/114340881-bd5d6380-9b82-11eb-8814-a8ab9c053a46.png)
+![14](https://user-images.githubusercontent.com/56240386/114512308-2e744800-9c63-11eb-906d-354075f3028d.jpeg)
 Menambahkan style pada form
-![2 3](https://user-images.githubusercontent.com/81283969/114340909-cbab7f80-9b82-11eb-98e7-1085a85578c3.png)
+![15](https://user-images.githubusercontent.com/56240386/114512315-2f0cde80-9c63-11eb-8484-fd3f3b1698a4.jpeg)
 Hasil style pada form
-![2 4](https://user-images.githubusercontent.com/81283969/114340930-d9f99b80-9b82-11eb-8f0a-e8c86dadad27.png)
+![16](https://user-images.githubusercontent.com/56240386/114512319-2f0cde80-9c63-11eb-8cb4-32ff6eb5c683.jpeg)
 
