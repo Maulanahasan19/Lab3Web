@@ -1,26 +1,29 @@
-# Lab3Web
+# Lab 3
 
 # Membuat List
- Membuat ordered list 
+
+Membuat ordered list 
 ![1](https://user-images.githubusercontent.com/56240386/114512174-02f15d80-9c63-11eb-9588-a3fcc541e4d4.jpeg)
 
- Hasil dari ordered list
+Hasil dari ordered list
 ![2](https://user-images.githubusercontent.com/56240386/114512185-04bb2100-9c63-11eb-9842-ad95775a7446.jpeg)
 
- Membuat unorderd list
+Membuat unorderd list
 ![3](https://user-images.githubusercontent.com/56240386/114512201-0a186b80-9c63-11eb-8cc9-5d2ebd5a499e.jpeg)
 
- Hasil dari unorderd list
+Hasil dari unorderd list
 ![4](https://user-images.githubusercontent.com/56240386/114512213-0edd1f80-9c63-11eb-99f1-a96436db859d.jpeg)
 
- Mebuat description list
+Mebuat description list
 ![5](https://user-images.githubusercontent.com/56240386/114512193-071d7b00-9c63-11eb-9dac-e9b250a8836f.jpeg)
 
- Hasil dari description list
+Hasil dari description list
 ![6](https://user-images.githubusercontent.com/56240386/114512218-100e4c80-9c63-11eb-8161-b45bc655e66c.jpeg)
 
 
 # Membuat Tabel
+
+Membuat Tabel
 ![7](https://user-images.githubusercontent.com/56240386/114512209-0dabf280-9c63-11eb-8ed4-ed787a91fe2f.jpeg)
 
  Hasil dari membuat tabel
@@ -36,6 +39,8 @@
 
 
 # Membuat Form
+
+Membuat Form
 ![13](https://user-images.githubusercontent.com/56240386/114512305-2ddbb180-9c63-11eb-8814-ed9f69a82318.jpeg)
 
  Hasil dari membuat form
